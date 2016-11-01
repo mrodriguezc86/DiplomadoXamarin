@@ -1,0 +1,4 @@
+XelloXamarinAndroid.MainActivity, XelloXamarinAndroid;md5aa99b0f9aba333b0232ecf5ef33226b8.MainActivity
+XelloXamarinAndroid.MainActivity, XelloXamarinAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa99b0f9aba333b0232ecf5ef33226b8.MainActivity
+XelloXamarinAndroid.MainActivity;md5aa99b0f9aba333b0232ecf5ef33226b8.MainActivity
+xelloxamarinandroid.MainActivity;md5aa99b0f9aba333b0232ecf5ef33226b8.MainActivity
